@@ -12,6 +12,9 @@
 		5D00D029203B8F47006D5569 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5D00D027203B8F47006D5569 /* Main.storyboard */; };
 		5D00D02B203B8F47006D5569 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5D00D02A203B8F47006D5569 /* Assets.xcassets */; };
 		5D00D02E203B8F47006D5569 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5D00D02C203B8F47006D5569 /* LaunchScreen.storyboard */; };
+		5D00D036203B8FB2006D5569 /* quaddro.png in Resources */ = {isa = PBXBuildFile; fileRef = 5D00D035203B8FB2006D5569 /* quaddro.png */; };
+		5D00D038203B8FCE006D5569 /* quaddro@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 5D00D037203B8FCE006D5569 /* quaddro@3x.png */; };
+		5D00D03A203B8FDC006D5569 /* quaddro@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 5D00D039203B8FDC006D5569 /* quaddro@2x.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +25,9 @@
 		5D00D02A203B8F47006D5569 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		5D00D02D203B8F47006D5569 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		5D00D02F203B8F47006D5569 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		5D00D035203B8FB2006D5569 /* quaddro.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = quaddro.png; path = ../../../../../Downloads/quaddro.png; sourceTree = "<group>"; };
+		5D00D037203B8FCE006D5569 /* quaddro@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "quaddro@3x.png"; path = "../../../../../Downloads/quaddro@3x.png"; sourceTree = "<group>"; };
+		5D00D039203B8FDC006D5569 /* quaddro@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "quaddro@2x.png"; path = "../../../../../Downloads/quaddro@2x.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +65,9 @@
 				5D00D027203B8F47006D5569 /* Main.storyboard */,
 				5D00D02A203B8F47006D5569 /* Assets.xcassets */,
 				5D00D02C203B8F47006D5569 /* LaunchScreen.storyboard */,
+				5D00D035203B8FB2006D5569 /* quaddro.png */,
+				5D00D037203B8FCE006D5569 /* quaddro@3x.png */,
+				5D00D039203B8FDC006D5569 /* quaddro@2x.png */,
 				5D00D02F203B8F47006D5569 /* Info.plist */,
 			);
 			path = Quaddro;
@@ -125,6 +134,9 @@
 			files = (
 				5D00D02E203B8F47006D5569 /* LaunchScreen.storyboard in Resources */,
 				5D00D02B203B8F47006D5569 /* Assets.xcassets in Resources */,
+				5D00D036203B8FB2006D5569 /* quaddro.png in Resources */,
+				5D00D03A203B8FDC006D5569 /* quaddro@2x.png in Resources */,
+				5D00D038203B8FCE006D5569 /* quaddro@3x.png in Resources */,
 				5D00D029203B8F47006D5569 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
